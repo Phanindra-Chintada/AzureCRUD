@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: AzureCrudUsingSpringBootMVC
+
+cosmos:
+  uri: https://springboot-azure-demos.documents.azure.com:443/
+  key: VhwADog909Ey0XC3rNt3QUaZiNdmiWH9q0tjXpWLCfkPFKsMos118BKgfXTu3hQ7bGLhnqNOmedHADINv2w2ow==
+  database: DemoDatabase
+  container: DemoContainer
